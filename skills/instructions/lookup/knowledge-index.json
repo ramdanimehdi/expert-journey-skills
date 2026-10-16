@@ -9,5 +9,57 @@
       "path": "references/trainer-funnels.md"
     }
   ],
-  "guidelines": "Resolve paths from the instructions skill root. These are selected owner-authored references. Use the instructions routing table for specialist skills; do not load an unrelated legacy reference automatically."
+  "guidelines": "Resolve paths from the instructions skill root. These are selected owner-authored references. Use the instructions routing table for specialist skills; do not load an unrelated legacy reference automatically.",
+  "specialist_skills": [
+    {
+      "name": "write-expert-sales-copy",
+      "path": "../write-expert-sales-copy/SKILL.md"
+    },
+    {
+      "name": "plan-expert-sales-funnels",
+      "path": "../plan-expert-sales-funnels/SKILL.md"
+    },
+    {
+      "name": "build-expert-message-webinar",
+      "path": "../build-expert-message-webinar/SKILL.md"
+    },
+    {
+      "name": "craft-perfect-webinar",
+      "path": "../craft-perfect-webinar/SKILL.md"
+    },
+    {
+      "name": "assemble-expert-funnel-recipes",
+      "path": "../assemble-expert-funnel-recipes/SKILL.md"
+    },
+    {
+      "name": "design-expert-continuity",
+      "path": "../design-expert-continuity/SKILL.md"
+    },
+    {
+      "name": "optimize-expert-vsl-funnel",
+      "path": "../optimize-expert-vsl-funnel/SKILL.md"
+    },
+    {
+      "name": "diagnose-expert-funnel-growth",
+      "path": "../diagnose-expert-funnel-growth/SKILL.md"
+    },
+    {
+      "name": "attract-expert-dream-customers",
+      "path": "../attract-expert-dream-customers/SKILL.md"
+    },
+    {
+      "name": "grand-slam-offer",
+      "path": "../grand-slam-offer/SKILL.md"
+    }
+  ],
+  "task_references": [
+    {
+      "path": "../expert-training-materials/references/arabic-presentation-design.md",
+      "use": "Arabic training design details"
+    },
+    {
+      "path": "../craft-perfect-webinar/references/mehdi-webinar-workbook.md",
+      "use": "Practical webinar workbook and operating plan"
+    }
+  ]
 }

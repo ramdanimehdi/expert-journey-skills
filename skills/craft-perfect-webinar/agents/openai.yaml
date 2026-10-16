@@ -1,0 +1,4 @@
+interface:
+  display_name: "بناء الويبينار المثالي"
+  short_description: "اكتب الويبينار والشرائح والعرض واضبط زمن اللقاء"
+  default_prompt: "استخدم $craft-perfect-webinar لمساعدتي اعتمادًا على معلومات مشروعي."

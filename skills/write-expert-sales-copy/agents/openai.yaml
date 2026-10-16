@@ -1,0 +1,4 @@
+interface:
+  display_name: "كتابة النصوص التسويقية"
+  short_description: "اكتب النصوص التسويقية بفوائد واقعية وصوتك الطبيعي"
+  default_prompt: "استخدم $write-expert-sales-copy لمساعدتي اعتمادًا على معلومات مشروعي."

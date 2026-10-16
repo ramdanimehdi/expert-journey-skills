@@ -1,0 +1,4 @@
+interface:
+  display_name: "تحسين فانل الفيديو البيعي"
+  short_description: "حسّن نية المشاهدة والصفحة والمتابعة حسب البيانات"
+  default_prompt: "استخدم $optimize-expert-vsl-funnel لمساعدتي اعتمادًا على معلومات مشروعي."

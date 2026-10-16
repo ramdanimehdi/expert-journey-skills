@@ -1,0 +1,4 @@
+interface:
+  display_name: "رسالة الخبير وقصته"
+  short_description: "طوّر رسالتك وقصتك والويبينار من وقائع مشروعك"
+  default_prompt: "استخدم $build-expert-message-webinar لمساعدتي اعتمادًا على معلومات مشروعي."

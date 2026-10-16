@@ -1,0 +1,4 @@
+interface:
+  display_name: "وصفات الفانل والصفحات"
+  short_description: "حدّد الصفحات والعناصر والانتقالات وحالات التحقق"
+  default_prompt: "استخدم $assemble-expert-funnel-recipes لمساعدتي اعتمادًا على معلومات مشروعي."

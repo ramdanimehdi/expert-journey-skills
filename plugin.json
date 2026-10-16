@@ -8,12 +8,14 @@
     "com.openai": {
       "interface": {
         "capabilities": [
-          "Diagnose an expertise business",
+          "Diagnose expertise projects and funnel conversion",
           "Develop offers and value ladders",
-          "Plan sales funnels and marketing budgets",
-          "Draft marketing pages and follow-up sequences",
-          "Prepare social-content scripts",
-          "Prepare Arabic training-material design prompts"
+          "Plan funnel recipes and page specifications",
+          "Write expert positioning and webinar scripts",
+          "Design continuity and member activation plans",
+          "Plan customer acquisition and follow-up",
+          "Draft marketing and social content",
+          "Prepare Arabic training materials and worksheets"
         ],
         "category": "Business & Operations",
         "composerIcon": "./assets/gpt-icon.png",
@@ -25,7 +27,7 @@
         "developerName": "مهدي رمضاني",
         "displayName": "رحلة الخبير",
         "logo": "./assets/gpt-icon.png",
-        "longDescription": "Expert Journey is a business-planning and marketing-workflow assistant for independent trainers, experts, and consultants, prepared by Mehdi Ramdani. Its main purpose is to turn the user's expertise and project information into a practical business plan: diagnose the offer and audience, structure a value ladder, choose a sales funnel, and plan a marketing budget and launch. It drafts sales-page copy, email and WhatsApp follow-up sequences, ad copy, and social-content scripts. Supporting educational workflows prepare Arabic training-slide and worksheet design prompts with separate participant and trainer instructions. The 17 skills use the user's own voice, brand, and supplied facts, with selected owner-authored references. It drafts plans and content; it does not operate ad accounts, send messages, publish websites, process payments, or generate video. Image and file production require independent tools available to the user. Plans and drafts should be reviewed by the user before use.",
+        "longDescription": "Expert Journey is an Arabic-first business-planning, marketing and training-material workflow collection for independent trainers, experts and consultants, prepared by Mehdi Ramdani. Its 27 skills cover project diagnosis, expertise offers and value ladders, sales-funnel strategy and page specifications, positioning and true stories, webinar scripts and slides, continuity and member activation, VSL-funnel improvement, customer research and acquisition, conversion measurement, marketing copy and follow-up, social content and Arabic training materials. Includes a complete publisher-authored practical webinar workbook and detailed Arabic presentation guidance. Uses the user's facts, voice and identity. Produces plans, drafts and design prompts; it does not provide an MCP server or operate ad accounts, send messages, process payments or publish websites. Actual image and file production depends on independent tools available in the user's environment. No outcome or publication approval is guaranteed.",
         "shortDescription": "Plan a training business",
         "websiteURL": "https://cashfromskill.online/expert-journey/index.html",
         "supportURL": "https://cashfromskill.online/expert-journey/support.html",
@@ -38,16 +40,16 @@
       },
       "publication": {
         "countries": [],
-        "release_notes": "Clarified the business-planning purpose and Business & Operations category. Replaced the generic capability label with concrete workflows, synchronized both manifests and Arabic translation, and removed commerce-related wording from the public description while retaining the commerce declaration in review metadata. No skill behavior or external integrations changed.",
+        "release_notes": "Added ten complete specialist methodologies to the existing seventeen skills; integrated the full Arabic presentation design reference and the publisher-authored practical webinar workbook. Updated task routing, user guides and manifest parity. Preserved existing workflows and original references. Qualified unsupported guarantees, illustrative values and scarcity in the offer workflow. No new integrations, server or external storage.",
         "translations": {
           "ar": {
             "subtitle": "خطّط مشروعك التدريبي وسوّقه",
-            "description": "رحلة الخبير مساعد أعدّه مهدي رمضاني لتخطيط أعمال المدربين والخبراء والمستشارين وتسويقها. يساعد في تشخيص المشروع والجمهور، وبناء العرض وسلم القيمة، واختيار مسار البيع، وتخطيط الميزانية والإطلاق. يكتب مسودات صفحات البيع ورسائل المتابعة والإعلانات وسكريبتات المحتوى. ويوفر برومبتات لتصميم الشرائح وأوراق العمل العربية مع فصل نسخة المشارك عن دليل المدرب. يضم 17 مهارة تستخدم معلومات صاحب المشروع وصوته وهويته ومراجع أصلية مختارة. يقدّم خططًا ومسودات؛ تنفيذ الحملات والإرسال والنشر والإنتاج يحتاج أدوات مستقلة متاحة للمستخدم. يراجع المستخدم الخطط والمسودات قبل استخدامها."
+            "description": "رحلة الخبير حزمة من 27 مهارة أعدّها مهدي رمضاني للمدربين والخبراء والمستشارين. تغطي تشخيص المشروع، وبناء العرض وسلم القيمة، وتخطيط الفانل ووصفات صفحاته، ورسالة الخبير وقصته، وكتابة الويبينار وشرائحه، والعضوية والتفعيل والتجديد، وتحسين فانل الفيديو البيعي، وجذب العملاء والشراكات، وتشخيص التحويل والمبيعات. تشمل كتابة الصفحات والإعلانات والمتابعة والمحتوى الاجتماعي، وتجهيز برومبتات المواد التدريبية والتمارين مع فصل المشارك عن المدرب، ودليل ويبينار تطبيقي كامل. تستخدم معلومات صاحب المشروع وصوته وهويته. المخرجات خطط ومسودات وبرومبتات؛ التنفيذ والإنتاج يحتاجان أدوات مستقلة متاحة للمستخدم، ولا توجد ضمانات نتائج أو موافقة نشر."
           }
         }
       }
     }
   },
   "name": "gpt-beaba69e0ae5397d2e234c7bb5b12840",
-  "version": "0.7.2"
+  "version": "0.8.0"
 }

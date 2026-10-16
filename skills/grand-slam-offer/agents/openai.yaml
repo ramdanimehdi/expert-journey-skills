@@ -1,0 +1,4 @@
+interface:
+  display_name: "بناء العرض المتكامل"
+  short_description: "طوّر قيمة العرض ومكوناته وسعره وشروطه الواقعية"
+  default_prompt: "استخدم $grand-slam-offer لمساعدتي اعتمادًا على معلومات مشروعي."

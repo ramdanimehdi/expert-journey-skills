@@ -1,0 +1,4 @@
+interface:
+  display_name: "جذب العملاء المناسبين"
+  short_description: "خطّط الوصول والمحتوى والشراكات والمتابعة المناسبة"
+  default_prompt: "استخدم $attract-expert-dream-customers لمساعدتي اعتمادًا على معلومات مشروعي."

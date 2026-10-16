@@ -1,0 +1,4 @@
+interface:
+  display_name: "تخطيط الفانل وسلم القيمة"
+  short_description: "خطّط المسار والمتابعة والقياس وفق موارد مشروعك"
+  default_prompt: "استخدم $plan-expert-sales-funnels لمساعدتي اعتمادًا على معلومات مشروعي."

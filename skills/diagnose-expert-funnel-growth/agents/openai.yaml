@@ -1,0 +1,4 @@
+interface:
+  display_name: "تشخيص التحويل والمبيعات"
+  short_description: "حدّد التسرب واحسب الاقتصاديات واختر تجربة واحدة"
+  default_prompt: "استخدم $diagnose-expert-funnel-growth لمساعدتي اعتمادًا على معلومات مشروعي."

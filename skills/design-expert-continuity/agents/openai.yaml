@@ -1,0 +1,4 @@
+interface:
+  display_name: "العضوية والاستمرارية"
+  short_description: "قيّم العضوية وصمّم التفعيل والاحتفاظ والتجديد"
+  default_prompt: "استخدم $design-expert-continuity لمساعدتي اعتمادًا على معلومات مشروعي."
