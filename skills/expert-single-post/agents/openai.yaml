@@ -1,0 +1,4 @@
+interface:
+  display_name: "منشور بصورة واحدة"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-single-post لمساعدتي في منشور بصورة واحدة."

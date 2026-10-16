@@ -1,0 +1,4 @@
+interface:
+  display_name: "نصوص صفحات الفانل"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-funnel-pages لمساعدتي في نصوص صفحات الفانل."

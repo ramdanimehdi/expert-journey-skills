@@ -1,0 +1,53 @@
+{
+  "name": "gpt-beaba69e0ae5397d2e234c7bb5b12840",
+  "version": "0.7.2",
+  "description": "Business planning and marketing workflows for independent trainers, experts, and consultants, prepared by Mehdi Ramdani.",
+  "author": {
+    "name": "مهدي رمضاني"
+  },
+  "skills": "./skills",
+  "interface": {
+    "capabilities": [
+      "Diagnose an expertise business",
+      "Develop offers and value ladders",
+      "Plan sales funnels and marketing budgets",
+      "Draft marketing pages and follow-up sequences",
+      "Prepare social-content scripts",
+      "Prepare Arabic training-material design prompts"
+    ],
+    "category": "Business & Operations",
+    "composerIcon": "./assets/gpt-icon.png",
+    "defaultPrompt": [
+      "1️⃣ أريد تحويل خبرتي إلى مشروع رقمي مربح",
+      "2️⃣ ساعدني في تصميم سلم قيمة مناسب لخبرتي وسوقي",
+      "3️⃣ ما هو أفضل نظام بيع (Funnel) لمنتجي؟"
+    ],
+    "developerName": "مهدي رمضاني",
+    "displayName": "رحلة الخبير",
+    "logo": "./assets/gpt-icon.png",
+    "longDescription": "Expert Journey is a business-planning and marketing-workflow assistant for independent trainers, experts, and consultants, prepared by Mehdi Ramdani. Its main purpose is to turn the user's expertise and project information into a practical business plan: diagnose the offer and audience, structure a value ladder, choose a sales funnel, and plan a marketing budget and launch. It drafts sales-page copy, email and WhatsApp follow-up sequences, ad copy, and social-content scripts. Supporting educational workflows prepare Arabic training-slide and worksheet design prompts with separate participant and trainer instructions. The 17 skills use the user's own voice, brand, and supplied facts, with selected owner-authored references. It drafts plans and content; it does not operate ad accounts, send messages, publish websites, process payments, or generate video. Image and file production require independent tools available to the user. Plans and drafts should be reviewed by the user before use.",
+    "shortDescription": "Plan a training business",
+    "websiteURL": "https://cashfromskill.online/expert-journey/index.html",
+    "supportURL": "https://cashfromskill.online/expert-journey/support.html",
+    "privacyPolicyURL": "https://cashfromskill.online/expert-journey/privacy.html",
+    "termsOfServiceURL": "https://cashfromskill.online/expert-journey/terms.html"
+  },
+  "extensions": {
+    "com.openai": {
+      "review": {
+        "commerce": false,
+        "commerce_description": "This educational skills-only plugin does not sell products, require a separate paid subscription, direct users to purchase the publisher's services, or process payments."
+      },
+      "publication": {
+        "countries": [],
+        "release_notes": "Clarified the business-planning purpose and Business & Operations category. Replaced the generic capability label with concrete workflows, synchronized both manifests and Arabic translation, and removed commerce-related wording from the public description while retaining the commerce declaration in review metadata. No skill behavior or external integrations changed.",
+        "translations": {
+          "ar": {
+            "subtitle": "خطّط مشروعك التدريبي وسوّقه",
+            "description": "رحلة الخبير مساعد أعدّه مهدي رمضاني لتخطيط أعمال المدربين والخبراء والمستشارين وتسويقها. يساعد في تشخيص المشروع والجمهور، وبناء العرض وسلم القيمة، واختيار مسار البيع، وتخطيط الميزانية والإطلاق. يكتب مسودات صفحات البيع ورسائل المتابعة والإعلانات وسكريبتات المحتوى. ويوفر برومبتات لتصميم الشرائح وأوراق العمل العربية مع فصل نسخة المشارك عن دليل المدرب. يضم 17 مهارة تستخدم معلومات صاحب المشروع وصوته وهويته ومراجع أصلية مختارة. يقدّم خططًا ومسودات؛ تنفيذ الحملات والإرسال والنشر والإنتاج يحتاج أدوات مستقلة متاحة للمستخدم. يراجع المستخدم الخطط والمسودات قبل استخدامها."
+          }
+        }
+      }
+    }
+  }
+}

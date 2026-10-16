@@ -1,0 +1,4 @@
+interface:
+  display_name: "تشخيص المشروع"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-project-analysis لمساعدتي في تشخيص المشروع."

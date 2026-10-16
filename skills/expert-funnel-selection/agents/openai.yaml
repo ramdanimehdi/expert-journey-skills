@@ -1,0 +1,4 @@
+interface:
+  display_name: "اختيار الفانل"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-funnel-selection لمساعدتي في اختيار الفانل."

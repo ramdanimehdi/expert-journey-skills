@@ -1,0 +1,4 @@
+interface:
+  display_name: "الكتابة بصوت صاحبها"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-humanizer لمساعدتي في الكتابة بصوت صاحبها."

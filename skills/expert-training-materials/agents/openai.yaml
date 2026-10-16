@@ -1,0 +1,4 @@
+interface:
+  display_name: "تصميم المواد التدريبية"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-training-materials لمساعدتي في تصميم المواد التدريبية."

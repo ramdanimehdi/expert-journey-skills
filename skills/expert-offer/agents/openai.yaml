@@ -1,0 +1,4 @@
+interface:
+  display_name: "العرض وسلم القيمة"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-offer لمساعدتي في العرض وسلم القيمة."

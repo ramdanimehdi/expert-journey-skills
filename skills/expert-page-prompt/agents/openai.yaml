@@ -1,0 +1,4 @@
+interface:
+  display_name: "برومبت تصميم الصفحة"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-page-prompt لمساعدتي في برومبت تصميم الصفحة."

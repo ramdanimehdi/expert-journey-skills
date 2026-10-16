@@ -1,0 +1,4 @@
+interface:
+  display_name: "رسائل المتابعة"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-followup لمساعدتي في رسائل المتابعة."

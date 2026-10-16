@@ -1,0 +1,4 @@
+interface:
+  display_name: "رحلة الخبير"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $instructions لمساعدتي في رحلة الخبير."

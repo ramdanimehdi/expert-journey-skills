@@ -1,0 +1,13 @@
+{
+  "files": [
+    {
+      "name": "expert-launch.md",
+      "path": "references/expert-launch.md"
+    },
+    {
+      "name": "trainer-funnels.md",
+      "path": "references/trainer-funnels.md"
+    }
+  ],
+  "guidelines": "Resolve paths from the instructions skill root. These are selected owner-authored references. Use the instructions routing table for specialist skills; do not load an unrelated legacy reference automatically."
+}

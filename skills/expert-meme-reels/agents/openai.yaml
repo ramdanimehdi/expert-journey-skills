@@ -1,0 +1,4 @@
+interface:
+  display_name: "الميمز التعليمية"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-meme-reels لمساعدتي في الميمز التعليمية."

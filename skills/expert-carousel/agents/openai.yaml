@@ -1,0 +1,4 @@
+interface:
+  display_name: "الكاروسيل العربي"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-carousel لمساعدتي في الكاروسيل العربي."

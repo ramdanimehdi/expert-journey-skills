@@ -1,0 +1,4 @@
+interface:
+  display_name: "جذب العملاء المحتملين"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-lead-generation لمساعدتي في جذب العملاء المحتملين."

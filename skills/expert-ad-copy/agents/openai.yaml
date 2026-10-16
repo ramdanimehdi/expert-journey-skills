@@ -1,0 +1,4 @@
+interface:
+  display_name: "نص الإعلان وبريف الصورة"
+  short_description: "أدوات عملية للمدربين والخبراء والمستشارين"
+  default_prompt: "استخدم $expert-ad-copy لمساعدتي في نص الإعلان وبريف الصورة."
